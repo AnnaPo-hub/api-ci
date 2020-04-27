@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hhwev4mdhn60n8uw?svg=true)](https://ci.appveyor.com/project/AnnaPo-hub/cashbackservice)
+[![Build status](https://ci.appveyor.com/api/projects/status/gh2vq9bv4ku0buu2?svg=true)](https://ci.appveyor.com/project/AnnaPo-hub/api-ci)
